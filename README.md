@@ -7,13 +7,13 @@ This project implements Sparse Matrix operations (addition, subtraction, multipl
 **Project Structure**
 
 DSA_SparseMatrix/
-│── code/src/                   # Source code files
-│   ├── SparseMatrix.py         # Implementation of SparseMatrix class
-│── sample_inputs/              # Input matrix files
+│── code/src/                   <!--# Source code files-->
+│   ├── SparseMatrix.py         <!--# Implementation of SparseMatrix class-->
+│── sample_inputs/             <!-- # Input matrix files-->
 │   ├── matrix1.txt
 │   ├── matrix2.txt
-│── sample_results/             # Output result files
-│── README.md                   # Project documentation
+│── sample_results/             <!--# Output result files-->
+│── README.md                  <!-- # Project documentation-->
 
 How to Run
 
