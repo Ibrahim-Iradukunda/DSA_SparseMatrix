@@ -8,12 +8,17 @@ This project implements Sparse Matrix operations (addition, subtraction, multipl
 
 DSA_SparseMatrix/
 │── code/src/                   <!--# Source code files-->
+
 │   ├── SparseMatrix.py         <!--# Implementation of SparseMatrix class-->
+
 │── sample_inputs/             <!-- # Input matrix files-->
+
 │   ├── matrix1.txt
 │   ├── matrix2.txt
 │── sample_results/             <!--# Output result files-->
+
 │── README.md                  <!-- # Project documentation-->
+
 
 How to Run
 
@@ -35,7 +40,10 @@ cat ../sample_results/matrix_addition.txt
 
 **Features**
 
-**✅ Reads sparse matrices from a file✅ Performs addition, subtraction, and multiplication✅ Handles incorrect formatting with exceptions✅ Saves results to output files**
+**✅ Reads sparse matrices from a file
+  ✅ Performs addition, subtraction, and multiplication
+  ✅ Handles incorrect formatting with exceptions
+  ✅ Saves results to output files**
 
 **Notes**
 
