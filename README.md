@@ -1,10 +1,10 @@
-DSA Sparse Matrix Project
+#DSA Sparse Matrix Project
 
-Overview
+##Overview
 
 This project implements Sparse Matrix operations (addition, subtraction, multiplication) using an optimized memory structure. It reads matrix data from input files, performs calculations, and stores results efficiently.
 
-Project Structure
+##Project Structure
 
 DSA_SparseMatrix/
 │── code/src/                   # Source code files
@@ -17,30 +17,28 @@ DSA_SparseMatrix/
 
 How to Run
 
-1️⃣ Clone the repository:
+##1️⃣ Clone the repository:
 
 git clone https://github.com/Ibrahim-Iradukunda/DSA_SparseMatrix.git
 
-2️⃣ Navigate to the source code directory:
+##2️⃣ Navigate to the source code directory:
 
 cd DSA_SparseMatrix/code/src
 
-3️⃣ Run the script:
+##3️⃣ Run the script:
 
 python3 SparseMatrix.py
 
-4️⃣ Check results:
+##4️⃣ Check results:
 
 cat ../sample_results/matrix_addition.txt
 
-Features
+##Features
 
-✅ Reads sparse matrices from a file✅ Performs addition, subtraction, and multiplication✅ Handles incorrect formatting with exceptions✅ Saves results to output files
+##✅ Reads sparse matrices from a file✅ Performs addition, subtraction, and multiplication✅ Handles incorrect formatting with exceptions✅ Saves results to output files
 
-Notes
+##Notes
 
 Ensure matrix files follow the correct format before execution.
 
-Do not use built-in libraries (regex, NumPy, etc.).
-
-Supports large sparse matrices efficiently.
+Do not use built-in libraries (regex).
